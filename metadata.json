@@ -1,0 +1,8 @@
+{
+  "name": "AgriVision AI",
+  "description": "A comprehensive AI-driven agriculture platform featuring crop recommendation, price prediction, multilingual farmer advisory, and government analytics.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
